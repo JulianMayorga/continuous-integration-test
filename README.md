@@ -1,1 +1,2 @@
 Integracion continua de angular con travis
+[![Build Status](https://travis-ci.org/JulianMayorga/continuous-integration-test.png?branch=master)](https://travis-ci.org/JulianMayorga/continuous-integration-test)
