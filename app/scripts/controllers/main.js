@@ -5,6 +5,7 @@ angular.module('continuousDeploymentTestApp')
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
+      'Nave',
       'Karma'
     ];
   });
